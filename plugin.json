@@ -1,9 +1,9 @@
 {
     "name": "AsyntaiChat",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Adds an Asyntai AI chat widget tag to Tag Manager, so the assistant goes live without editing your site.",
     "keywords": ["chat", "ai", "assistant", "chatbot", "support", "tagmanager", "widget"],
-    "license": "GPL-3.0-or-later",
+    "license": "GPL-3.0+",
     "homepage": "https://asyntai.com/documentation/integrations/matomo/",
     "category": "integration",
     "authors": [
